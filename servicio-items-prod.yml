@@ -1,0 +1,4 @@
+configuracion:
+  texto: Configurando ambiente3 produccion
+server:
+  port: 8007

@@ -1,0 +1,7 @@
+configuracion:
+  autor:
+    email: aleortizvazquez19@gmail.com
+    nombre: Alejandra
+  texto: Configurando ambiente2 desarrollo
+server:
+  port: 8005

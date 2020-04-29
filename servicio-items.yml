@@ -1,0 +1,4 @@
+configuracion:
+  texto: Configurando ambiente1 por defecto
+server:
+  port: 8005
